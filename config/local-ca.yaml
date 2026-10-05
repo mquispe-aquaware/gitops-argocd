@@ -38,6 +38,7 @@ spec:
   dnsNames:
     - argocd.localhost
     - kargo.localhost
+    - app.localhost
   issuerRef:
     name: local-ca-issuer
     kind: Issuer

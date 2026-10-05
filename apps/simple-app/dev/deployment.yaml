@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: simple-app
-          image: ghcr.io/legonnarth/simple-app:v1.0.2
+          image: ghcr.io/mquispe-aquaware/simple-app:v1.0.3
           ports:
             - containerPort: 80

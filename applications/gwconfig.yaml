@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Legonnarth/gitops-argocd
+    repoURL: https://github.com/mquispe-aquaware/gitops-argocd
     targetRevision: main
     path: config
   destination:
